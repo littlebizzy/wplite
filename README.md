@@ -1,6 +1,6 @@
 #### WordPress boilerplate focused on speed, security, and lightweight code that includes several Must Use plugins and also supports Composer (Packagist).
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) <a class="github-button" href="https://github.com/littlebizzy/wplite" data-icon="octicon-star" data-size="small" data-show-count="true" aria-label="Star littlebizzy/wplite on GitHub">Star</a> <a class="github-button" href="https://github.com/littlebizzy/wplite/fork" data-icon="octicon-repo-forked" data-size="small" data-show-count="true" aria-label="Fork littlebizzy/wplite on GitHub">Fork</a>
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&logo=github&label=Stars)](https://github.com/littlebizzy/wplite) [![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?style=social&logo=github&label=Fork)](https://github.com/littlebizzy/wplite)
 
 Designed to be used in conjuction with SlickStack:
 
@@ -27,5 +27,3 @@ Designed to be used in conjuction with SlickStack:
     /var/www/html/wp-content/uploads/
 
 Made with ❤ by [LittleBizzy](https://www.littlebizzy.com)
-
-<script async defer src="https://buttons.github.io/buttons.js"></script>
