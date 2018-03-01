@@ -26,7 +26,7 @@ Place inside `/var/www/html/` when installing via [SlickStack](https://slickstac
     /wp-content/themes/
     /wp-content/uploads/
 
-Defined constants supported by included Must Use plugins:
+Defined constants supported by wplite:
 
     // Remove Query Strings
     define('REMOVE_QUERY_STRING_ARGS', 'v,ver,version');
