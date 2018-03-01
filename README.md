@@ -28,7 +28,10 @@ Designed to be placed in `/var/www/html/` when installed via [slickstack](https:
 
 Defined constants supported by included Must Use plugins:
 
+    // Remove Query Strings
     define('REMOVE_QUERY_STRING_ARGS', 'v,ver,version');
+    
+    // Delete Expired Transients
     define('DELETE_EXPIRED_TRANSIENTS_HOURS', '24');
     define('DELETE_EXPIRED_TRANSIENTS_MAX_EXECUTION_TIME', '60');
     define('DELETE_EXPIRED_TRANSIENTS_MAX_BATCH_RECORDS', '500');
