@@ -2,7 +2,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/littlebizzy/wplite.svg?style=social&logo=github&label=Star)](https://github.com/littlebizzy/wplite/stargazers) [![GitHub forks](https://img.shields.io/github/forks/littlebizzy/wplite.svg?style=social&logo=github&label=Fork)](https://github.com/littlebizzy/wplite/fork)
 
-Place inside `/var/www/html/` when installed via [SlickStack](https://slickstack.io) on a LEMP stack (Nginx) server:
+Place inside `/var/www/html/` when installing via [SlickStack](https://slickstack.io) on a LEMP (Nginx) server:
 
     composer.json
     index.php
