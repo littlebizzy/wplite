@@ -2,29 +2,29 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/littlebizzy/wplite.svg?style=social&logo=github&label=Star)](https://github.com/littlebizzy/wplite/stargazers) [![GitHub forks](https://img.shields.io/github/forks/littlebizzy/wplite.svg?style=social&logo=github&label=Fork)](https://github.com/littlebizzy/wplite/fork)
 
-Designed to be used in conjuction with SlickStack:
+Designed to be placed in `/var/www/html/` when installed via [slickstack](https://slickstack.io):
 
-    /var/www/html/composer.json
-    /var/www/html/index.php
-    /var/www/html/wp-config.php
-    /var/www/html/wp-content/mu-plugins/
-    /var/www/html/wp-content/mu-plugins/cf-littlebizzy/
-    /var/www/html/wp-content/mu-plugins/delete-expired-transients-littlebizzy/
-    /var/www/html/wp-content/mu-plugins/disable-embeds-littlebizzy/
-    /var/www/html/wp-content/mu-plugins/disable-emojis-littlebizzy/
-    /var/www/html/wp-content/mu-plugins/disable-empty-trash-littlebizzy/
-    /var/www/html/wp-content/mu-plugins/disable-image-compression-littlebizzy/
-    /var/www/html/wp-content/mu-plugins/disable-xml-rpc-littlebizzy/
-    /var/www/html/wp-content/mu-plugins/error-log-monitor-littlebizzy/
-    /var/www/html/wp-content/mu-plugins/force-strong-hashing-littlebizzy/
-    /var/www/html/wp-content/mu-plugins/header-cleanup-littlebizzy/
-    /var/www/html/wp-content/mu-plugins/nginx-cache-littlebizzy/
-    /var/www/html/wp-content/mu-plugins/remove-query-strings-littlebizzy/
-    /var/www/html/wp-content/mu-plugins/server-status-littlebizzy/
-    /var/www/html/wp-content/mu-plugins/virtual-robotstxt-littlebizzy/
-    /var/www/html/wp-content/plugins/
-    /var/www/html/wp-content/themes/
-    /var/www/html/wp-content/uploads/
+    composer.json
+    index.php // wpcore
+    wp-config.php // wpcore
+    /wp-content/mu-plugins/ // wpcore
+    /wp-content/mu-plugins/cf-littlebizzy/ // wplite
+    /wp-content/mu-plugins/delete-expired-transients-littlebizzy/ // wplite
+    /wp-content/mu-plugins/disable-embeds-littlebizzy/ // wplite
+    /wp-content/mu-plugins/disable-emojis-littlebizzy/ // wplite
+    /wp-content/mu-plugins/disable-empty-trash-littlebizzy/ // wplite
+    /wp-content/mu-plugins/disable-image-compression-littlebizzy/ // wplite
+    /wp-content/mu-plugins/disable-xml-rpc-littlebizzy/ // wplite
+    /wp-content/mu-plugins/error-log-monitor-littlebizzy/ // wplite
+    /wp-content/mu-plugins/force-strong-hashing-littlebizzy/ // wplite
+    /wp-content/mu-plugins/header-cleanup-littlebizzy/ // wplite
+    /wp-content/mu-plugins/nginx-cache-littlebizzy/ // wplite
+    /wp-content/mu-plugins/remove-query-strings-littlebizzy/ // wplite
+    /wp-content/mu-plugins/server-status-littlebizzy/ // wplite
+    /wp-content/mu-plugins/virtual-robotstxt-littlebizzy/ // wplite
+    /wp-content/plugins/ // wplite
+    /wp-content/themes/ // wpcore
+    /wp-content/uploads/ // wpcore
 
 Defined constants supported by included Must Use plugins:
 
