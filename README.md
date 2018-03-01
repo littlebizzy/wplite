@@ -1,5 +1,7 @@
 WordPress boilerplate focused on speed, security, and lightweight code that includes several Must Use plugins and also supports Composer (Packagist).
 
+<a class="github-button" href="https://github.com/littlebizzy/wplite" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star littlebizzy/wplite on GitHub">Star</a>
+
 Designed to be used in conjuction with SlickStack:
 
     /var/www/html/composer.json
@@ -23,3 +25,5 @@ Designed to be used in conjuction with SlickStack:
     /var/www/html/wp-content/plugins/
     /var/www/html/wp-content/themes/
     /var/www/html/wp-content/uploads/
+
+<script async defer src="https://buttons.github.io/buttons.js"></script>
