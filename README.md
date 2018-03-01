@@ -9,7 +9,7 @@ Designed to be placed in `/var/www/html/` when installed via [slickstack](https:
     wp-config.php // wpcore
     /wp-content/mu-plugins/ // wpcore
     ```diff
-    + /wp-content/mu-plugins/cf-littlebizzy/
+    /wp-content/mu-plugins/cf-littlebizzy/
     ```
     /wp-content/mu-plugins/delete-expired-transients-littlebizzy/ // wplite
     /wp-content/mu-plugins/disable-embeds-littlebizzy/ // wplite
