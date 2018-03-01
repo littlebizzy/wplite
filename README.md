@@ -1,6 +1,6 @@
 #### WordPress boilerplate focused on speed, security, and lightweight code that includes several Must Use plugins and also supports Composer (Packagist).
 
-[![Github all releases](https://img.shields.io/github/downloads/littlebizzy/wplite/total.svg)](https://github.com/littlebizzy/wplite/archive/master.zip) [![GitHub stars](https://img.shields.io/github/stars/littlebizzy/wplite.svg?style=social&logo=github&label=Star)](https://github.com/littlebizzy/wplite/stargazers) [![GitHub forks](https://img.shields.io/github/forks/littlebizzy/wplite.svg?style=social&logo=github&label=Fork)](https://github.com/littlebizzy/wplite/fork) [![GitHub watchers](https://img.shields.io/github/watchers/littlebizzy/wplite.svg?style=social&logo=github&label=Watch)](https://github.com/littlebizzy/wplite/watchers)
+[![Github all releases](https://img.shields.io/github/downloads/littlebizzy/wplite/total.svg)](https://github.com/littlebizzy/wplite/archive/master.zip) [![GitHub stars](https://img.shields.io/github/stars/littlebizzy/wplite.svg?style=social&logo=github&label=Star)](https://github.com/littlebizzy/wplite/stargazers) [![GitHub forks](https://img.shields.io/github/forks/littlebizzy/wplite.svg?style=social&logo=github&label=Fork)](https://github.com/littlebizzy/wplite/fork)
 
 Place inside `/var/www/html/` when installing via [SlickStack](https://slickstack.io) on a LEMP (Nginx) server:
 
