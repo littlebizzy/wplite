@@ -5,28 +5,26 @@
 Designed to be placed in `/var/www/html/` when installed via [slickstack](https://slickstack.io):
 
     composer.json
-    index.php // wpcore
-    wp-config.php // wpcore
-    /wp-content/mu-plugins/ // wpcore
-    ```diff
+    index.php
+    wp-config.php
+    /wp-content/mu-plugins/
     /wp-content/mu-plugins/cf-littlebizzy/
-    ```
-    /wp-content/mu-plugins/delete-expired-transients-littlebizzy/ // wplite
-    /wp-content/mu-plugins/disable-embeds-littlebizzy/ // wplite
-    /wp-content/mu-plugins/disable-emojis-littlebizzy/ // wplite
-    /wp-content/mu-plugins/disable-empty-trash-littlebizzy/ // wplite
-    /wp-content/mu-plugins/disable-image-compression-littlebizzy/ // wplite
-    /wp-content/mu-plugins/disable-xml-rpc-littlebizzy/ // wplite
-    /wp-content/mu-plugins/error-log-monitor-littlebizzy/ // wplite
-    /wp-content/mu-plugins/force-strong-hashing-littlebizzy/ // wplite
-    /wp-content/mu-plugins/header-cleanup-littlebizzy/ // wplite
-    /wp-content/mu-plugins/nginx-cache-littlebizzy/ // wplite
-    /wp-content/mu-plugins/remove-query-strings-littlebizzy/ // wplite
-    /wp-content/mu-plugins/server-status-littlebizzy/ // wplite
-    /wp-content/mu-plugins/virtual-robotstxt-littlebizzy/ // wplite
-    /wp-content/plugins/ // wplite
-    /wp-content/themes/ // wpcore
-    /wp-content/uploads/ // wpcore
+    /wp-content/mu-plugins/delete-expired-transients-littlebizzy/
+    /wp-content/mu-plugins/disable-embeds-littlebizzy/
+    /wp-content/mu-plugins/disable-emojis-littlebizzy/
+    /wp-content/mu-plugins/disable-empty-trash-littlebizzy/
+    /wp-content/mu-plugins/disable-image-compression-littlebizzy/
+    /wp-content/mu-plugins/disable-xml-rpc-littlebizzy/
+    /wp-content/mu-plugins/error-log-monitor-littlebizzy/
+    /wp-content/mu-plugins/force-strong-hashing-littlebizzy/
+    /wp-content/mu-plugins/header-cleanup-littlebizzy/
+    /wp-content/mu-plugins/nginx-cache-littlebizzy/
+    /wp-content/mu-plugins/remove-query-strings-littlebizzy/
+    /wp-content/mu-plugins/server-status-littlebizzy/
+    /wp-content/mu-plugins/virtual-robotstxt-littlebizzy/
+    /wp-content/plugins/
+    /wp-content/themes/
+    /wp-content/uploads/
 
 Defined constants supported by included Must Use plugins:
 
