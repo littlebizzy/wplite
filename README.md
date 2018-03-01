@@ -32,8 +32,8 @@ List of defined constants supported by wplite:
     define('REMOVE_QUERY_STRING_ARGS', 'v,ver,version');
     
     // Delete Expired Transients
-    define('DELETE_EXPIRED_TRANSIENTS_HOURS', '24');
-    define('DELETE_EXPIRED_TRANSIENTS_MAX_EXECUTION_TIME', '60');
-    define('DELETE_EXPIRED_TRANSIENTS_MAX_BATCH_RECORDS', '500');
+    define('DELETE_EXPIRED_TRANSIENTS_HOURS', '6');
+    define('DELETE_EXPIRED_TRANSIENTS_MAX_EXECUTION_TIME', '10');
+    define('DELETE_EXPIRED_TRANSIENTS_MAX_BATCH_RECORDS', '50');
 
 Made with ❤ by [LittleBizzy](https://www.littlebizzy.com) | Licensed under [GPLv3](https://www.gnu.org/licenses/gpl-3.0)
