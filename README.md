@@ -8,7 +8,9 @@ Designed to be placed in `/var/www/html/` when installed via [slickstack](https:
     index.php // wpcore
     wp-config.php // wpcore
     /wp-content/mu-plugins/ // wpcore
-    /wp-content/mu-plugins/cf-littlebizzy/ // wplite
+    ```diff
+    + /wp-content/mu-plugins/cf-littlebizzy/
+    ```
     /wp-content/mu-plugins/delete-expired-transients-littlebizzy/ // wplite
     /wp-content/mu-plugins/disable-embeds-littlebizzy/ // wplite
     /wp-content/mu-plugins/disable-emojis-littlebizzy/ // wplite
