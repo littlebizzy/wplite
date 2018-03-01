@@ -26,4 +26,6 @@ Designed to be used in conjuction with SlickStack:
     /var/www/html/wp-content/themes/
     /var/www/html/wp-content/uploads/
 
+Made with ❤ by [LittleBizzy](https://www.littlebizzy.com)
+
 <script async defer src="https://buttons.github.io/buttons.js"></script>
