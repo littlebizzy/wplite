@@ -26,4 +26,11 @@ Designed to be used in conjuction with SlickStack:
     /var/www/html/wp-content/themes/
     /var/www/html/wp-content/uploads/
 
+Defined constants supported by included Must Use plugins:
+
+    define('REMOVE_QUERY_STRING_ARGS', 'v,ver,version');
+    define('DELETE_EXPIRED_TRANSIENTS_HOURS', '24');
+    define('DELETE_EXPIRED_TRANSIENTS_MAX_EXECUTION_TIME', '60');
+    define('DELETE_EXPIRED_TRANSIENTS_MAX_BATCH_RECORDS', '500');
+
 Made with ❤ by [LittleBizzy](https://www.littlebizzy.com) | Licensed under [GPLv3](https://www.gnu.org/licenses/gpl-3.0)
