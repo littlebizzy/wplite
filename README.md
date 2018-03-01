@@ -36,4 +36,4 @@ List of defined constants supported by wplite:
     define('DELETE_EXPIRED_TRANSIENTS_MAX_EXECUTION_TIME', '10');
     define('DELETE_EXPIRED_TRANSIENTS_MAX_BATCH_RECORDS', '50');
 
-Made with ❤ by [LittleBizzy](https://www.littlebizzy.com) | Licensed under [GPLv3](https://www.gnu.org/licenses/gpl-3.0)
+❤ from [LittleBizzy](https://www.littlebizzy.com) | License: [GPLv3](https://www.gnu.org/licenses/gpl-3.0)
