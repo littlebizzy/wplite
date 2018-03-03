@@ -28,6 +28,9 @@ Place inside `/var/www/html/` when installing via [SlickStack](https://slickstac
 
 List of defined constants supported by wplite:
 
+    // Disable Nag Notices
+    define('DISABLE_NAG_NOTICES', true);
+    
     // Remove Query Strings
     define('REMOVE_QUERY_STRING_ARGS', 'v,ver,version');
     
