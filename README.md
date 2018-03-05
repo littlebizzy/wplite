@@ -31,15 +31,25 @@ List of defined constants supported by wplite:
     // Disable Nag Notices
     define('DISABLE_NAG_NOTICES', true);
     
-    // Remove Query Strings
-    define('REMOVE_QUERY_STRING_ARGS', 'v,ver,version');
+    // CloudFlare
+    define('CLOUDFLARE_API_KEY', '123456789');
+    define('CLOUDFLARE_API_EMAIL', 'user@example.com');
     
     // Delete Expired Transients
     define('DELETE_EXPIRED_TRANSIENTS_HOURS', '6');
     define('DELETE_EXPIRED_TRANSIENTS_MAX_EXECUTION_TIME', '10');
     define('DELETE_EXPIRED_TRANSIENTS_MAX_BATCH_RECORDS', '50');
     
+    // Force Strong Hashing
+    define('FORCE_STRONG_HASHING_ALGO', 'bcrypt | argon2');
+    
+    // Remove Query Strings
+    define('REMOVE_QUERY_STRING_ARGS', 'v,ver,version');
+    
     // Server Status
-    define('SVRSTS_DISPLAY', 'grid, widefat');
+    define('SVRSTS_DISPLAY', 'grid | widefat');
+    
+    // Virtual Robots.txt
+    define('VIRTUAL_ROBOTSTXT_PRESET', 'default | noarchive');
 
 ❤ from [LittleBizzy](https://www.littlebizzy.com) | License: [GPLv3](https://www.gnu.org/licenses/gpl-3.0)
