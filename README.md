@@ -24,6 +24,10 @@ Place inside `/var/www/html/` when installing via [SlickStack](https://slickstac
     /wp-content/mu-plugins/virtual-robotstxt-littlebizzy/
     /wp-content/plugins/
     /wp-content/themes/
+    /wp-content/themes/starter-littlebizzy/
+    /wp-content/themes/bedrock/
+    /wp-content/themes/underscores/
+    /wp-content/themes/bones/
     /wp-content/uploads/
 
 List of defined constants supported by wplite:
