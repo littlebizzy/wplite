@@ -25,7 +25,7 @@ Place inside `/var/www/html/` when installing via [SlickStack](https://slickstac
     /wp-content/plugins/
     /wp-content/themes/
     /wp-content/themes/starter-littlebizzy/
-    /wp-content/themes/bedrock/
+    /wp-content/themes/sage/
     /wp-content/themes/underscores/
     /wp-content/themes/bones/
     /wp-content/uploads/
