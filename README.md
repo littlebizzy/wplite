@@ -5,8 +5,6 @@
 Place inside `/var/www/html/` when installing via [SlickStack](https://slickstack.io) on a LEMP (Nginx) server:
 
     composer.json
-    index.php
-    wp-config.php
     /wp-content/mu-plugins/
     /wp-content/mu-plugins/cf-littlebizzy/
     /wp-content/mu-plugins/delete-expired-transients-littlebizzy/
@@ -29,6 +27,18 @@ Place inside `/var/www/html/` when installing via [SlickStack](https://slickstac
     /wp-content/themes/underscores/
     /wp-content/themes/bones/
     /wp-content/uploads/
+    license.txt
+    index.php
+    wp-activate.php
+    wp-blog-header.php
+    wp-comments-post.php
+    wp-config-sample.php
+    wp-cron.php
+    wp-links-opml.php
+    wp-load.php
+    wp-login.php
+    wp-settings.php
+    wp-signup.php
 
 List of defined constants supported by wplite:
 
