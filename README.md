@@ -48,7 +48,7 @@ List of defined constants supported by wplite:
     define('FORCE_STRONG_HASHING_ALGO', 'bcrypt | argon2');
     
     // Remove Query Strings
-    define('REMOVE_QUERY_STRING_ARGS', 'v,ver,version');
+    define('REMOVE_QUERY_STRINGS_ARGS', 'v,ver,version');
     
     // Server Status
     define('SVRSTS_DISPLAY', 'grid | widefat');
