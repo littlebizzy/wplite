@@ -6,7 +6,7 @@ Place inside `/var/www/html/` when installing via [SlickStack](https://slickstac
 
     composer.json
     /wp-admin/
-        ... // (core)
+        ...
     /wp-content/
         index.php
         /mu-plugins/
@@ -34,7 +34,7 @@ Place inside `/var/www/html/` when installing via [SlickStack](https://slickstac
             /underscores/
             index.php
     /wp-includes/
-        ... // (core)
+        ...
     index.php
     license.txt
     wp-activate.php
