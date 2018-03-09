@@ -22,14 +22,15 @@ Place inside `/var/www/html/` when installing via [SlickStack](https://slickstac
         /wp-content/mu-plugins/remove-query-strings-littlebizzy/
         /wp-content/mu-plugins/server-status-littlebizzy/
         /wp-content/mu-plugins/virtual-robotstxt-littlebizzy/
+        /wp-content/mu-plugins/index.php
     /wp-content/plugins/
         /wp-content/plugins/index.php
     /wp-content/themes/
-        /wp-content/themes/index.php
         /wp-content/themes/bones/
         /wp-content/themes/sage/
         /wp-content/themes/starter-littlebizzy/
         /wp-content/themes/underscores/
+        /wp-content/themes/index.php
     license.txt
     index.php
     wp-activate.php
