@@ -5,34 +5,38 @@
 Place inside `/var/www/html/` when installing via [SlickStack](https://slickstack.io) on a LEMP (Nginx) server:
 
     composer.json
+    /wp-admin/
+        ... // (core)
     /wp-content/
-    /wp-content/index.php
-    /wp-content/mu-plugins/
-        /wp-content/mu-plugins/cf-littlebizzy/
-        /wp-content/mu-plugins/delete-expired-transients-littlebizzy/
-        /wp-content/mu-plugins/disable-embeds-littlebizzy/
-        /wp-content/mu-plugins/disable-emojis-littlebizzy/
-        /wp-content/mu-plugins/disable-empty-trash-littlebizzy/
-        /wp-content/mu-plugins/disable-image-compression-littlebizzy/
-        /wp-content/mu-plugins/disable-xml-rpc-littlebizzy/
-        /wp-content/mu-plugins/error-log-monitor-littlebizzy/
-        /wp-content/mu-plugins/force-strong-hashing-littlebizzy/
-        /wp-content/mu-plugins/header-cleanup-littlebizzy/
-        /wp-content/mu-plugins/nginx-cache-littlebizzy/
-        /wp-content/mu-plugins/remove-query-strings-littlebizzy/
-        /wp-content/mu-plugins/server-status-littlebizzy/
-        /wp-content/mu-plugins/virtual-robotstxt-littlebizzy/
-        /wp-content/mu-plugins/index.php
-    /wp-content/plugins/
-        /wp-content/plugins/index.php
-    /wp-content/themes/
-        /wp-content/themes/bones/
-        /wp-content/themes/sage/
-        /wp-content/themes/starter-littlebizzy/
-        /wp-content/themes/underscores/
-        /wp-content/themes/index.php
-    license.txt
+        index.php
+        /mu-plugins/
+            cf-littlebizzy/
+            delete-expired-transients-littlebizzy/
+            disable-embeds-littlebizzy/
+            disable-emojis-littlebizzy/
+            disable-empty-trash-littlebizzy/
+            disable-image-compression-littlebizzy/
+            disable-xml-rpc-littlebizzy/
+            error-log-monitor-littlebizzy/
+            force-strong-hashing-littlebizzy/
+            header-cleanup-littlebizzy/
+            nginx-cache-littlebizzy/
+            remove-query-strings-littlebizzy/
+            server-status-littlebizzy/
+            virtual-robotstxt-littlebizzy/
+            index.php
+        /plugins/
+            index.php
+        /themes/
+            /bones/
+            /sage/
+            /starter-littlebizzy/
+            /underscores/
+            index.php
+    /wp-includes/
+        ... // (core)
     index.php
+    license.txt
     wp-activate.php
     wp-blog-header.php
     wp-comments-post.php
