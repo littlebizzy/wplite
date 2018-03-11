@@ -69,7 +69,7 @@ List of defined constants supported by wplite:
     define('REMOVE_QUERY_STRINGS_ARGS', 'v,ver,version');
     
     // Server Status
-    define('SVRSTS_DISPLAY', 'grid | widefat');
+    define('SERVER_STATUS_DISPLAY', 'grid | widefat');
     
     // Virtual Robots.txt
     define('VIRTUAL_ROBOTSTXT_PRESET', 'default | noarchive');
