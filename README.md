@@ -10,20 +10,20 @@ Place inside `/var/www/html/` when installing via [SlickStack](https://slickstac
     /wp-content/
         index.php
         /mu-plugins/
-            cf-littlebizzy/
-            delete-expired-transients-littlebizzy/
-            disable-embeds-littlebizzy/
-            disable-emojis-littlebizzy/
-            disable-empty-trash-littlebizzy/
-            disable-image-compression-littlebizzy/
-            disable-xml-rpc-littlebizzy/
-            error-log-monitor-littlebizzy/
-            force-strong-hashing-littlebizzy/
-            header-cleanup-littlebizzy/
-            nginx-cache-littlebizzy/
-            remove-query-strings-littlebizzy/
-            server-status-littlebizzy/
-            virtual-robotstxt-littlebizzy/
+            /cf-littlebizzy/
+            /delete-expired-transients-littlebizzy/
+            /disable-embeds-littlebizzy/
+            /disable-emojis-littlebizzy/
+            /disable-empty-trash-littlebizzy/
+            /disable-image-compression-littlebizzy/
+            /disable-xml-rpc-littlebizzy/
+            /error-log-monitor-littlebizzy/
+            /force-strong-hashing-littlebizzy/
+            /header-cleanup-littlebizzy/
+            /nginx-cache-littlebizzy/
+            /remove-query-strings-littlebizzy/
+            /server-status-littlebizzy/
+            /virtual-robotstxt-littlebizzy/
             index.php
         /plugins/
             index.php
