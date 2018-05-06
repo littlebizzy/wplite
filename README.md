@@ -31,6 +31,7 @@ Place inside `/var/www/html/` when installing via [SlickStack](https://slickstac
             /bones/
             /sage/
             /starter-littlebizzy/
+            /storefront/
             /underscores/
             index.php
     /wp-includes/
