@@ -45,9 +45,7 @@ WordPress boilerplate focused on speed, security, and lightweight code that incl
 
 ### Support Issues
 
-*Please do not submit Pull Requests. Instead, kindly create a new Issue with relevant information if you are an experienced developer, otherwise post your comments in our free Facebook group.*
-
-***No emails, please! Thank you.***
+Please do not submit Pull Requests. Instead, kindly create a new Issue with relevant information if you are an experienced developer, otherwise you may become a [**LittleBizzy.com Member**](https://www.littlebizzy.com/members) if your company requires official support.
 
 ----
 
