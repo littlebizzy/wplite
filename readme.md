@@ -2,8 +2,8 @@
 
 WordPress boilerplate focused on speed, security, and lightweight code that includes several Must Use plugins and also supports Composer (Packagist).
 
-* [Boilerplate Homepage (WPLite.org)](https://wplite.org)
-* [Free Facebook Group](https://www.facebook.com/groups/littlebizzy/)
+* [Boilerplate Homepage](https://wplite.org)
+* [**Become A LittleBizzy.com Member Today!**](https://www.littlebizzy.com/members)
 
 ### Defined Constants
 
