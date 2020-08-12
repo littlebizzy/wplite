@@ -99,3 +99,73 @@ Place inside `/var/www/html/` when installing via [SlickStack](https://slickstac
     wp-login.php
     wp-settings.php
     wp-signup.php
+    
+    
+ ## copied from the wplite.org homepage to here 
+ 
+ http://archive.is/wplite.org
+ 
+ # Themes
+ 
+Because wplite includes Repo Search in the mu-plugins, users can use both the traditional WordPress search tool to discover new themes but also search thousands of themes across GitHub that do not show up in the centralized Automattic-controlled theme directory on WordPress.org.
+
+Repo Search is based partly on WPGIT and the StaticGen codebase.
+
+https://github.com/onigetoc/wpgit
+https://github.com/netlify/staticgen
+
+*Coming soon*
+
+# Plugins
+
+Because wplite includes Repo Search in the mu-plugins, users can use both the traditional WordPress search tool to discover new plugins but also search thousands of plugins across GitHub that do not show up in the centralized Automattic-controlled plugin directory on WordPress.org.
+
+Repo Search is based partly on WPGIT and the StaticGen codebase.
+
+https://github.com/onigetoc/wpgit
+https://github.com/netlify/staticgen
+
+*Coming soon*
+
+# Contribute
+
+Because wplite is largely made up of mu-plugins released by LittleBizzy, contributing to the project can be done easily by submitting a new “Issue” on any one of these GitHub repos.
+
+https://github.com/littlebizzy
+
+In this way, all discussions are public, and anyone with a GitHub account can participate.
+
+Watch this space for more opportunities coming soon.
+
+# Hosting
+
+Anywhere that you can host WordPress, you should also be able to host wplite. However, certain web hosting companies try to provide an extra bit of support to wplite installations by way of documentation, links, or otherwise, some of which we have listed below:
+
+(pending submissions)
+ 
+
+Does your hosting company support wplite specifically? Let us know.
+
+https://github.com/littlebizzy/wplite/issues/new
+
+# Download
+
+Your team can easily substitute wplite into your normal WordPress workflow. Our public repo is regularly updated and always bundles the latest version of WordPress, including all security patches.
+
+Use the download link below to grab the latest ZIP package:
+
+Download wplite (latest ZIP package)
+
+https://wplite.org/latest.zip
+
+Download wplite mirror (latest ZIP package)
+
+https://github.com/littlebizzy/wplite/archive/master.zip
+
+Alternatively, you may use the wpl.fyi shortcut in your various scripts as below:
+
+sudo wget wpl.fyi
+
+
+
+
